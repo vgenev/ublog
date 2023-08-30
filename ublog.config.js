@@ -53,9 +53,8 @@ module.exports = {
     },
   ],
   relays: [
-    "wss://nostr.wine",
-    "wss://filter.nostr.wine/npub1kmv8enh3jmrhf57gpe9n3z4npm8k03rsujrfgp7jc6x3tw8eegls9vegks?broadcast=true",
     "wss://relay.damus.io",
+    "wss://nostr.wine",
     "wss://relay.snort.social",
     // "wss://nostr-pub.wellorder.net",
     // "wss://nos.lol",
