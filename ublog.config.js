@@ -1,11 +1,11 @@
 module.exports = {
-  title: "uBlog",
+  title: "Regenerative Farming and Bitcoin: A Better World Together",
   description:
-    "A minimalist blog on nostr that allows anyone to easily create their own personal micro-blog.",
+    "A blog that captures AI-shaped ideas about the symbiosis between Regenerative Farming and Bitcoin, and how they can work together to make the world a better place for both humans and nature.",
   favicon:
-    "https://upload.wikimedia.org/wikipedia/commons/0/0b/Greek_lc_mu.svg",
-  logo: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Greek_lc_mu.svg",
-  npub: "npub1hk08saqjqxj0u98vjyeh8rd7n3828wh60wsf74nwkjexwlg22x6q4acuqq",
+    "https://void.cat/d/X43pvTionbCnJiSnXKHJTD.webp",
+  logo: "https://void.cat/d/X43pvTionbCnJiSnXKHJTD.webp",
+  npub: "npub1kmv8enh3jmrhf57gpe9n3z4npm8k03rsujrfgp7jc6x3tw8eegls9vegks",
   themes: [
     "light",
     "dark",
@@ -56,8 +56,8 @@ module.exports = {
     "wss://relay.snort.social",
     "wss://nostr-pub.wellorder.net",
     "wss://relay.damus.io",
-    "wss://nos.lol",
-    "wss://nostr.wine",
+    // "wss://nos.lol",
+    // "wss://nostr.wine",
     // "wss://nostr.nostrelay.org",
     // "wss://relay.nostr.ch",
     // "wss://nostr.bitcoiner.social",
